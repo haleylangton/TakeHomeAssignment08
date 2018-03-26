@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TravelList</string>
+    <string name="destination_australia">Date: January 2019</string>
+    <string name="destination_europe">Date: June 2019</string>
+    <string name="destination_india">Date: February 2020</string>
+    <string name="destination_africa">Date: July 2020</string>
+    <string name="destination_canada">Date: March 2021</string>
+    <string name="destination_asia">Date: August 2021</string>
+    <string name="true_toast">Make your plans now!</string>
+    <string name="australia">Australia</string>
+    <string name="oceans">Europe</string>
+    <string name="middle_east">India</string>
+    <string name="africa">Africa</string>
+    <string name="americas">Canada</string>
+    <string name="asia">Asia</string>
+
+</resources>
